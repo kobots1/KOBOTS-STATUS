@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Zep's Realm Welcomer","https://dsc.gg/zepsrealm"];
+const statusMessages = ["dsc.gg/kingofficerbots","KingOfficer Bots's Official Bot"];
 
 
 let currentIndex = 0;
