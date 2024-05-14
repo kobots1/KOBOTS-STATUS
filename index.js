@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["dsc.gg/kingofficerbots","KingOfficer Bots's Official Bot"];
+const statusMessages = ["dsc.gg/kingofficerbots","KingOfficer Bots's Official Bot","We will make ur custom bot in 4 days!"];
 
 
 let currentIndex = 0;
